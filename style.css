@@ -1,0 +1,94 @@
+body {
+	background-color: #ffe196;
+	color: grey
+	font-family: font-family: font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 17px
+	background-image:url(images/546746-surf_02.jpg);
+}
+h1 {
+   color: #ec7373;
+   font font-family: font-family: 'Playfair Display', serif;
+   font-size:  55px;
+   margin: 145px;
+
+	}
+
+h2 {   color: #706c61 ;
+	font-size: 24px;
+	font-family: font-family: font-family: 'Open Sans Condensed', sans-serif;
+
+    }
+  a  { text-decoration: none;
+	color: green
+	transform: color 0.3s ease;
+  	color: blue
+  	box-shadow: 2px 2px 3px red
+}
+
+    
+.img-circle{
+   border-radius: 100%;
+   box-shadow: 5px 5px 3px black;
+}
+   /* Custom design with class*/
+   .container {
+   	width: 700px;
+   	margin: 40px auto;
+
+   }
+   .top { background-color: white
+   padding: 40px;
+   box-shadow: 0px 10px 30px rgba(0,0,0,0.1); 
+   margin: 40px auto;
+   width: 730px;
+   border-radius:4px;}
+
+   .Surf {  
+   	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+   	border-radius: 4px;
+   	padding: 40px;
+          }
+    
+    .music {  
+   	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+   	border-radius: 4px;
+   	padding: 40px;
+          }
+    .Sailing {  
+   	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+   	border-radius: 4px;
+   	padding: 40px;
+          }
+    
+    .Follow {  box-shadow: 0px 10px 70px rgba(0,0,0,0.1);
+   	border-radius: 4px;
+   	padding: 40px;
+   	color: #5b8c85
+   }
+
+   .IESEG {
+      background-color: #5b8c85;
+   	  color: white;
+   	  padding:15px 20px;
+    }
+    
+    .IESEG:hover {
+    	background-color: black;
+    	color:white;
+      }
+
+ .fab fa-instagram:hover {
+ 	color: white;
+ 	padding: 15px 20px;
+ 	background-color: black
+
+ 	}
+
+.fab fa-facebook {
+	color: white;
+ 	padding: 15px 20px;
+
+
+
+}
+
